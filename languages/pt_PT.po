@@ -1,0 +1,325 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-10-21 19:09+0100\n"
+"PO-Revision-Date: 2016-10-21 19:09+0100\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Página não encontrada."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que nada foi encontrado neste local. Tente talvez uma das ligações "
+"abaixo ou uma pesquisa."
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Categorias mais utilizadas"
+
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Tente procurar nos arquivos mensais. %1$s"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um comentário sobre: &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+# @ _s
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+# @ _s
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+# @ _s
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://pt.wordpress.org/"
+
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Criado com %s"
+
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+# @ _s
+#: functions.php:47
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:92
+msgid "Add widgets here."
+msgstr "Adicionar widgets aqui."
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Ir para o conteúdo"
+
+#: header.php:44
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Etiqueta %1$s"
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+# @ _s
+#: inc/template-tags.php:72 template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de pesquisa por: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicar o primeiro artigo? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada corresponde aos seus critérios de pesquisa. Por favor "
+"tente novamente com palavras-chave diferentes."
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não conseguimos encontrar o que procura. Talvez uma pesquisa "
+"possa ajudar."
+
+#: template-parts/content-page.php:22 template-parts/content.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue a ler %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr "_s"
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
+
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+"Olá. Sou um tema modelo chamado <code>_s</code>, ou <em>underscores</em>, se "
+"preferir. Sou um tema feito para ser modificado por isso não me utilize como "
+"<em>Tema principal</em>. Em vez disso, tente transformar-me no melhor e mais "
+"incrível WordPress tema que existe. É para isso que aqui estou."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr "http://automattic.com/"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Deixar um comentário"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 comentário"
+
+#~ msgid "% Comments"
+#~ msgstr "% comentários"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Comentários mais antigos"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Comentários mais recentes &rarr;"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://wordpress.org/"
+
+#~ msgid "Page %s"
+#~ msgstr "Página %s"
+
+#~ msgid "Posts navigation"
+#~ msgstr "Navegação de artigos"
+
+#~ msgid "Older posts"
+#~ msgstr "Artigos mais antigos"
+
+#~ msgid "Newer posts"
+#~ msgstr "Artigos mais recentes"
+
+#~ msgid "Post navigation"
+#~ msgstr "Navegação de artigos"
+
+#~ msgid "Category: %s"
+#~ msgstr "Categoria: %s"
+
+#~ msgid "Tag: %s"
+#~ msgstr "Etiqueta: %s"
+
+#~ msgid "Author: %s"
+#~ msgstr "Autor: %s"
+
+#~ msgid "Year: %s"
+#~ msgstr "Ano: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Month: %s"
+#~ msgstr "Mês: %s"
+
+#, fuzzy
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F \\d\\e Y"
+
+#~ msgid "Day: %s"
+#~ msgstr "Dias: %s"
+
+#, fuzzy
+#~ msgctxt "daily archives date format"
+#~ msgid "F j, Y"
+#~ msgstr "j \\d\\e F \\d\\e Y"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Asides"
+#~ msgstr "Aparte"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Galleries"
+#~ msgstr "Galerias"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Images"
+#~ msgstr "Imagens"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Videos"
+#~ msgstr "Vídeos"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Quotes"
+#~ msgstr "Citações"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Links"
+#~ msgstr "Ligações"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Statuses"
+#~ msgstr "Estados"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Audio"
+#~ msgstr "Áudio"
+
+#~ msgctxt "post format archive title"
+#~ msgid "Chats"
+#~ msgstr "Conversas"
+
+#~ msgid "Archives: %s"
+#~ msgstr "Arquivos: %s"
+
+#~ msgid "%1$s: %2$s"
+#~ msgstr "%1$s: %2$s"
+
+#~ msgid "Archives"
+#~ msgstr "Arquivos"
